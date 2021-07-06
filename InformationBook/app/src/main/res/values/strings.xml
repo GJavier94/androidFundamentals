@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">InformationBook</string>
+    <string name="united_kingdom">
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum doloribus enim natus necessitatibus odit pariatur recusandae voluptatem? Ab deleniti, earum eligendi eum exercitationem facere magni perspiciatis, porro suscipit tenetur vel!
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum doloribus enim natus necessitatibus odit pariatur recusandae voluptatem? Ab deleniti, earum eligendi eum exercitationem facere magni perspiciatis, porro suscipit tenetur vel!
+    </string>
+    <string name="france">
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum doloribus enim natus necessitatibus odit pariatur recusandae voluptatem? Ab deleniti, earum eligendi eum exercitationem facere magni perspiciatis, porro suscipit tenetur vel!
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum doloribus enim natus necessitatibus odit pariatur recusandae voluptatem? Ab deleniti, earum eligendi eum exercitationem facere magni perspiciatis, porro suscipit tenetur vel!
+    </string>
+    <string name="mexico">
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum doloribus enim natus necessitatibus odit pariatur recusandae voluptatem? Ab deleniti, earum eligendi eum exercitationem facere magni perspiciatis, porro suscipit tenetur vel!
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum doloribus enim natus necessitatibus odit pariatur recusandae voluptatem? Ab deleniti, earum eligendi eum exercitationem facere magni perspiciatis, porro suscipit tenetur vel!
+    </string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Palindrome</string>
+    <string name="INPUT_EMPTY">The input is empty</string>
+    <string name="tag_message_phrase"></string>
+    <string name="SUCCESS"> "IT IS PALINDROME"</string>
+    <string name="FAILURE"> "IT IS NOT PALINDROME"</string>
+</resources>
