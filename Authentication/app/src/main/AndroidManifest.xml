@@ -9,6 +9,15 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Authentication">
+
+        <activity android:name=".SignInWithPhone"
+            android:parentActivityName=".MainActivity"></activity>
+        <activity android:name=".ForgotPassword"
+            android:parentActivityName=".MainActivity"/>
+        <activity
+            android:name=".SignUp"
+            android:parentActivityName=".MainActivity" />
+        <activity android:name=".MenuActivity" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -16,6 +25,18 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <service android:name=".MyFireBaseService"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT"></action>
+            </intent-filter>
+        </service>
+        <meta-data
+            android:name="com.google.firebase.messaging.default_notification_icon"
+            android:resource="@drawable/ic_baseline_notifications_active_24">
+
+        </meta-data>
     </application>
 
 </manifest>

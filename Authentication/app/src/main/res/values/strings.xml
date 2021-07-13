@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Authentication</string>
+    <string name="message_welcome">Welcome once again %1$s !</string>
 </resources>
