@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Notification</string>
+    <string name="big_text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur assumenda dolore illum obcaecati, quaerat rerum sequi vel velit! Aut eligendi eum incidunt inventore recusandae? Beatae excepturi perferendis quaerat. Consequatur, reiciendis!
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis delectus molestiae, obcaecati quos reprehenderit voluptates? Amet atque deleniti id perspiciatis repudiandae? Accusamus assumenda incidunt magni quibusdam recusandae repellat similique ullam.
+    </string>
 </resources>

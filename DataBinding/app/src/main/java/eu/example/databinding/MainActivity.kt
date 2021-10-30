@@ -12,6 +12,5 @@ class MainActivity : AppCompatActivity() {
         val info = Info("javier", "Armenta", "javarmgar@gmail.com")
         binding.data = info
 
-
     }
 }
